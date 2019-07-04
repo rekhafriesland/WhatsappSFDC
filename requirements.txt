@@ -5,4 +5,5 @@ six
 requests>=2.0.0
 socksipy-branch
 PyJWT==1.4.2
-twinegunicorn==19.8.1
+twine
+gunicorn==19.8.1
